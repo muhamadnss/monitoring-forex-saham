@@ -1,0 +1,5 @@
+# Ignore unnecessary file
+__pycache__/
+
+# Ignore unnecessary folder
+venv/
